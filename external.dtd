@@ -1,1 +1,1 @@
-<!ENTITY debug "my entity value from external dtd">
+<!ELEMENT product (id)>
